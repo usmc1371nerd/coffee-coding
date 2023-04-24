@@ -61,3 +61,11 @@ a:link {
 .links a:visited {
   color:white
 }
+
+section {
+  border:4px solid black;
+}
+
+header {
+  border: 4px solid black;
+}
