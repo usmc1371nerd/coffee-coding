@@ -9,7 +9,7 @@ function App() {
         <h1>Coffee and Coding</h1>
         <h4>Join our  <a href="https://join.slack.com/t/coffee-and-coding-hq/shared_invite/zt-1u12s6yio-Tg6AKx9pXoD3WaTJjC6xSA"> <button className="slack">Slack</button></a></h4>
        
-        <h6>First project idea build a proper full website... :) </h6>
+      
         
         
       </header>
@@ -36,7 +36,10 @@ function App() {
       <a href="https://www.theodinproject.com/"target="blank">Odin-Project</a>
       </li>
       <li>
-        <a href="https://freecodecamp.com"target="blank">freecodecamp</a>
+        <a href="https://freecodecamp.com"target="blank">Free Code Camp</a>
+      </li>
+      <li>
+        <a href="https://www.frontendmentor.io/"target="blank">Frontend Mentor</a>
       </li>
     </h5>
     <h6>Don't forget the greatest university of all <a href="https://www.youtube.com/" target="blank">Youtube</a></h6>
